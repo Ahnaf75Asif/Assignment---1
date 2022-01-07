@@ -1,12 +1,29 @@
 h1 {
+    margin-left: 10px solid red;
     font-size: xx-large;
     font-style: italic;
     font-weight: bold;
-    font-family: fantasy;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 
-.Exc {}
+.Exc {
+    color: green;
+}
 
 section {
     display: flex;
+    margin-top: 100px;
+    margin-left: 50px;
+    margin-right: 75px;
+}
+
+.one {
+    width: 50%;
+}
+
+.Button-1 {
+    text-decoration: wavy;
+    background-color: lightgreen;
+    padding: 10px;
+    border-radius: 5px;
 }
