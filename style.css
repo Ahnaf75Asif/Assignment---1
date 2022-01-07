@@ -5,6 +5,7 @@ h1 {
 
 .upar {
     text-align: left;
+    font-size: 35px;
     font-style: italic;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     margin-left: 10px solid red;
@@ -28,8 +29,8 @@ section {
     display: flex;
     margin-top: 100px;
     margin-bottom: 100px;
-    margin-left: 50px;
-    margin-right: 75px;
+    margin-left: 80px;
+    margin-right: 80px;
 }
 
 .one {
@@ -49,6 +50,7 @@ section {
     margin-bottom: 100px;
     margin-left: 20px;
     margin-right: 20px;
+    padding: 20px;
 }
 
 #Vision {
