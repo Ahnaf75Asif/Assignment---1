@@ -78,6 +78,22 @@
             border-radius: 100px;
         }
         
+        .four {
+            background-color: lightseagreen;
+            width: 50%;
+            margin-top: 75px;
+            margin-bottom: 100px;
+            margin-left: 20px;
+            margin-right: 20px;
+            border-radius: 100px;
+            padding: 20px;
+        }
+        
+        table {
+            background-color: mediumaquamarine;
+            border-radius: 10px;
+        }
+        
         footer {
             padding-top: 30px;
             padding-bottom: 30px;
